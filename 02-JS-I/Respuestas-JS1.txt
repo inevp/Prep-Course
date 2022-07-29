@@ -9,3 +9,4 @@ La sintaxis es:
 IF (CONDICION) { }
 La condición usa operadores de comparación (>,<, >=,<=,==,==!) Para evaluar la condición. Si la condición se cumple, las instrucciones entre corchete se ejecutan.
 VALORES BOOLEANOS: Los valores booleanos representan valores de verdad. Se usa TRUE para el valor “Verdadero” y FALSE para el valor “Falso”.
+
